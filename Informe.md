@@ -5,48 +5,46 @@ El móvil es una gran herramienta que la gran mayoría de personas usa en su dí
 
 2. OBJETIVOS
 
-  1. Objetivo general
+    1. Objetivo general
 
-  El objetivo es desarrollar una aplicación móvil que ayude a las personas a aprender cosas nuevas en su tiempo libre para fomentar el aprendizaje mediante la colaboración y competición.
+    El objetivo es desarrollar una aplicación móvil que ayude a las personas a aprender cosas nuevas en su tiempo libre para fomentar el aprendizaje mediante la colaboración y competición.
 
-  2 Objetivos específicos
+    2 Objetivos específicos
 
-    * Identificar los usuarios potenciales de la aplicación.
-    * Describir cómo usarán los usuarios la aplicación.
-    * Análisis de tareas que realizan los usuarios. 
-    * Descripción del sistema o contexto social y técnico en el que el diseño de la  aplicación se usará.
-    * Listar los criterios de usabilidad para la evaluación del diseño de la aplicación.
+        * Identificar los usuarios potenciales de la aplicación.
+        * Describir cómo usarán los usuarios la aplicación.
+        * Análisis de tareas que realizan los usuarios. 
+        * Descripción del sistema o contexto social y técnico en el que el diseño de la  aplicación se usará.
+        * Listar los criterios de usabilidad para la evaluación del diseño de la aplicación.
 
 3. MARCO TEÓRICO
 
 Los dispositivos móviles constituyen poderosas herramientas, que asociadas con recurso humano calificado permiten lograr eficiencia y efectividad en las actividades de cualquier tipo de organización, ya que el contenido puede llegar a una gran cantidad de personas.
 
-  1. Sistemas operativos para dispositivos móviles más usados
+    1. Sistemas operativos para dispositivos móviles más usados:
 
-    * iOS: 
-    Plataforma de desarrollo de la compañía Apple para aplicaciones sobre dispositivos iPhone, iPod, iTouch, iPad, etc.
+        * iOS: 
+        Plataforma de desarrollo de la compañía Apple para aplicaciones sobre dispositivos iPhone, iPod, iTouch, iPad, etc.
+        * Android:
+        Plataforma de desarrollo de la compañía Google para aplicaciones sobre dispositivos basados en Android como el Nexus One, HTC Dream, Samsung Galaxy, etc.
 
+    2. Desarrollo de aplicaciones para dispositivos móviles
+    Existen diversos lenguajes de programación para dispositivos móviles.
+    Las aplicaciones pueden ser desarrolladas en sistemas de escritorio y probadas empleando emuladores, para posteriormente ser instalados en los dispositivos reales. 
+    En relación al almacenamiento, existe un mecanismo propio de los dispositivos móviles conocido como Record Management System (RMS), es semejante a una base de datos, pero no soporta instrucciones SQL.
+    En cuanto a servidores existen los de bases de datos relacionales y no relacionales que pueden ser implementadas en el desarrollo de las aplicaciones móviles.
 
-    * Android:
-    Plataforma de desarrollo de la compañía Google para aplicaciones sobre dispositivos basados en Android como el Nexus One, HTC Dream, Samsung Galaxy, etc.
+    3. Lenguajes de programación
+    El desarrollo de aplicaciones para dispositivos móviles normalmente se lleva a cabo en sistemas de escritorio, siendo posible el desarrollo bajo Windows, Mac OS, Unix y Linux. 
+    De igual forma que es posible trabajar en diversas plataformas, también existen diversos lenguajes de programación; a continuación, se realizará una breve descripción de los principales lenguajes utilizados.
 
-  2. Desarrollo de aplicaciones para dispositivos móviles
-  Existen diversos lenguajes de programación para dispositivos móviles.
-  Las aplicaciones pueden ser desarrolladas en sistemas de escritorio y probadas empleando emuladores, para posteriormente ser instalados en los dispositivos reales. 
-  En relación al almacenamiento, existe un mecanismo propio de los dispositivos móviles conocido como Record Management System (RMS), es semejante a una base de datos, pero no soporta instrucciones SQL.
-  En cuanto a servidores existen los de bases de datos relacionales y no relacionales que pueden ser implementadas en el desarrollo de las aplicaciones móviles.
+        * HTML: El lenguaje de etiquetas html (hypertext markup language) se utiliza para el desarrollo y creación de páginas web. Se compone de una serie de etiquetas que el navegador interpreta. Entre las etiquetas que se incluyen dentro del lenguaje HTML se encuentran: hipervínculos, etiquetas para imágenes, saltos de página, entre otras.
 
-  3. Lenguajes de programación
-  El desarrollo de aplicaciones para dispositivos móviles normalmente se lleva a cabo en sistemas de escritorio, siendo posible el desarrollo bajo Windows, Mac OS, Unix y Linux. 
-  De igual forma que es posible trabajar en diversas plataformas, también existen diversos lenguajes de programación; a continuación, se realizará una breve descripción de los principales lenguajes utilizados.
+        * CSS: Las siglas CSS (Cascading Style Sheets) significan «Hojas de estilo en cascada» y parten de un concepto simple pero muy potente: aplicar estilos (colores, formas, márgenes, etc.) a uno o varios documentos (generalmente documentos HTML, páginas webs) de forma masiva.
 
-    * HTML: El lenguaje de etiquetas html (hypertext markup language) se utiliza para el desarrollo y creación de páginas web. Se compone de una serie de etiquetas que el navegador interpreta. Entre las etiquetas que se incluyen dentro del lenguaje HTML se encuentran: hipervínculos, etiquetas para imágenes, saltos de página, entre otras.
+        * JavaScript: Es un lenguaje que puede ser utilizado por profesionales y para quienes se inician en el desarrollo y diseño de sitios web. No requiere de compilación ya que el lenguaje funciona del lado del cliente, los navegadores son los encargados de interpretar estos códigos. JavaScript tiene la ventaja de ser incorporado en cualquier página web, puede ser ejecutado sin la necesidad de instalar otro programa para ser visualizado.
 
-    * CSS: Las siglas CSS (Cascading Style Sheets) significan «Hojas de estilo en cascada» y parten de un concepto simple pero muy potente: aplicar estilos (colores, formas, márgenes, etc.) a uno o varios documentos (generalmente documentos HTML, páginas webs) de forma masiva.
-
-    * JavaScript: Es un lenguaje que puede ser utilizado por profesionales y para quienes se inician en el desarrollo y diseño de sitios web. No requiere de compilación ya que el lenguaje funciona del lado del cliente, los navegadores son los encargados de interpretar estos códigos. JavaScript tiene la ventaja de ser incorporado en cualquier página web, puede ser ejecutado sin la necesidad de instalar otro programa para ser visualizado.
-
-    * Dart: es un lenguaje de programación de código abierto, desarrollado por Google. El objetivo de Dart no es reemplazar JavaScript como el principal lenguaje de programación web en los navegadores web, sino ofrecer una alternativa más moderna.
+        * Dart: es un lenguaje de programación de código abierto, desarrollado por Google. El objetivo de Dart no es reemplazar JavaScript como el principal lenguaje de programación web en los navegadores web, sino ofrecer una alternativa más moderna.
 
 METODOLOGÍA DE DESARROLLO DE LA APLICACIÓN MÓVIL
     
