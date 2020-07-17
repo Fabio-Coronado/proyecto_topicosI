@@ -23,8 +23,8 @@ Los dispositivos móviles constituyen poderosas herramientas, que asociadas con 
 
 ### Sistemas operativos para dispositivos móviles más usados:
 
-1. iOS: Plataforma de desarrollo de la compañía Apple para aplicaciones sobre dispositivos iPhone, iPod, iTouch, iPad, etc.
-2. Android: Plataforma de desarrollo de la compañía Google para aplicaciones sobre dispositivos basados en Android como el Nexus One, HTC Dream, Samsung Galaxy, etc.
+1. **iOS:** Plataforma de desarrollo de la compañía Apple para aplicaciones sobre dispositivos iPhone, iPod, iTouch, iPad, etc.
+2. **Android:** Plataforma de desarrollo de la compañía Google para aplicaciones sobre dispositivos basados en Android como el Nexus One, HTC Dream, Samsung Galaxy, etc.
 
 ### Desarrollo de aplicaciones para dispositivos móviles
 Existen diversos lenguajes de programación para dispositivos móviles.
@@ -46,43 +46,47 @@ De igual forma que es posible trabajar en diversas plataformas, también existen
 ## METODOLOGÍA DE DESARROLLO DE LA APLICACIÓN MÓVIL
     
 ### Descripciones
-1. Descripción de los usuarios:
-Describir algunos parámetros del comportamiento de los usuarios para tratar de averiguar cómo son y poder entender mejor por qué un gran número de apps solo se usan una vez y luego se abandonan.
-2. Características en común de los usuarios de apps
-La mayoría de los usuarios actuales de aplicaciones móviles tienen en común estas tres características: son impulsivos, inconstantes e hiperactivos.
+1. **Descripción de los usuarios**
 
-**Son impulsivos:** los usuarios no son fieles a una app en concreto. Más bien les gusta picotear por aquí y por allá. La generalización de smartphones trajo consigo el consumo de internet en micromomentos y eso se refleja en que los usuarios suelen realizar sesiones cortas en distintas apps de distintas categorías durante el mismo día.
+    Describir algunos parámetros del comportamiento de los usuarios para tratar de averiguar cómo son y poder entender mejor por qué un gran número de apps solo se usan una vez y luego se abandonan.
+    
+2. **Características en común de los usuarios de apps**
+    
+    La mayoría de los usuarios actuales de aplicaciones móviles tienen en común estas tres características: son impulsivos, inconstantes e hiperactivos.
 
-Las categorías más picoteadas suelen ser: Redes Sociales (66%), seguida de El Tiempo (57%), Noticias (52%), Fotos y Vídeos (51%), Juegos (49%), Entretenimiento (48%), Deportes (43%) y Música (42%).
+    **Son impulsivos:** los usuarios no son fieles a una app en concreto. Más bien les gusta picotear por aquí y por allá. La generalización de smartphones trajo consigo el consumo de internet en micromomentos y eso se refleja en que los usuarios suelen realizar sesiones cortas en distintas apps de distintas categorías durante el mismo día.
 
-**Son inconstantes:** los usuarios móviles son caprichosos y exigentes y no se quedan con cualquier app de por vida. Aseguran que antes de decidir dejar de usar una aplicación móvil la usan, al menos, 4 o 5 veces. 
+    Las categorías más picoteadas suelen ser: Redes Sociales (66%), seguida de El Tiempo (57%), Noticias (52%), Fotos y Vídeos (51%), Juegos (49%), Entretenimiento (48%), Deportes (43%) y Música (42%).
 
-La principal razón que alegan para tomar la decisión de dejar de usar algunas apps es porque, sencillamente, no necesitan volver a utilizar la aplicación más allá de la necesidad inicial concreta para la que se la descargaron una vez, seguida del argumento de que se aburren. La 3ª razón es porque encontraron una app mejor, la 4ª refiere problemas técnicos, la 5ª es por falta de espacio en su dispositivo móvil y la 6ª es porque, directamente, se olvidaron de la existencia de la aplicación.
+    **Son inconstantes:** los usuarios móviles son caprichosos y exigentes y no se quedan con cualquier app de por vida. Aseguran que antes de decidir dejar de usar una aplicación móvil la usan, al menos, 4 o 5 veces. 
 
-**Son hiperactivos:**  los usuarios de apps suelen ser activos de forma regular dentro de un determinado rango de apps. De media, los usuarios suelen utilizar unas 18 apps al mes y suelen acceder a las apps una media de 15 veces al día.
+    La principal razón que alegan para tomar la decisión de dejar de usar algunas apps es porque, sencillamente, no necesitan volver a utilizar la aplicación más allá de la necesidad inicial concreta para la que se la descargaron una vez, seguida del argumento de que se aburren. La 3ª razón es porque encontraron una app mejor, la 4ª refiere problemas técnicos, la 5ª es por falta de espacio en su dispositivo móvil y la 6ª es porque, directamente, se olvidaron de la existencia de la aplicación.
 
-Esta información la vamos a analizar en la fase de análisis, para poder cumplir las expectativas de los usuarios de nuestra aplicación.
+    **Son hiperactivos:**  los usuarios de apps suelen ser activos de forma regular dentro de un determinado rango de apps. De media, los usuarios suelen utilizar unas 18 apps al mes y suelen acceder a las apps una media de 15 veces al día.
 
-3. Descripción del sistema en el que el diseño se utilizará:
-La aplicación tratará dar una alternativa de entretenimiento ya que es una de las categorías que los usuarios utilizan en los dispositivos móviles, pero le daremos un plus juntandolo con el aprendizaje.
+    Esta información la vamos a analizar en la fase de análisis, para poder cumplir las expectativas de los usuarios de nuestra aplicación.
 
-Nuestra aplicación puede ser también clasificada en la categoría de juegos, pero creemos que un juego requiere de más elementos implicados, aunque podemos relacionarlo de cierta manera. 
+3. **Descripción del sistema en el que el diseño se utilizará**
 
-Cuando utilizamos aplicaciones de entretenimiento con una finalidad educativa las cosas cambian,la propia aplicación se transforma.Siguen siendo aplicaciones de entretenimiento pero se utilizan para un objetivo específico, para aprender unos contenidos concretos o para desarrollar algún tipo de habilidad. El entretenimiento queda integrado en un contexto que establece sus propias reglas sobre cómo ha de ser utilizado para sacar más beneficios formativos.
+    La aplicación tratará dar una alternativa de entretenimiento ya que es una de las categorías que los usuarios utilizan en los dispositivos móviles, pero le daremos un plus juntandolo con el aprendizaje.
 
-Junto a esta visión positiva de entretenimiento, convive otro tipo de visión mucho más crítica. Basada en la idea de que el aprendizaje al igual que el trabajo debe realizarse como si fuera un “deber”. Este punto de vista sugiere que toda diversión y entretenimiento es algo que debe dejarse para los momentos de ocio,para el tiempo libre. Por ello,se critica de forma insistente la demanda de entretenimiento y diversión.    
+    Nuestra aplicación puede ser también clasificada en la categoría de juegos, pero creemos que un juego requiere de más elementos implicados, aunque podemos relacionarlo de cierta manera. 
 
-El problema de este punto de vista es que se olvida que el esfuerzo y la dedicación constante a una actividad no están reñidos con la diversión. Al contrario,cuando algo gusta ,divierte, motiva, interesa, apasiona,el usuario es capaz de dedicar mucho tiempo y esfuerzo. El reto es, por supuesto, encontrar las formas adecuadas de motivación.
+    Cuando utilizamos aplicaciones de entretenimiento con una finalidad educativa las cosas cambian,la propia aplicación se transforma.Siguen siendo aplicaciones de entretenimiento pero se utilizan para un objetivo específico, para aprender unos contenidos concretos o para desarrollar algún tipo de habilidad. El entretenimiento queda integrado en un contexto que establece sus propias reglas sobre cómo ha de ser utilizado para sacar más beneficios formativos.
 
-Nuestra aplicación tendrá dos características generales de los juegos que hacen que sea enganchable:
+    Junto a esta visión positiva de entretenimiento, convive otro tipo de visión mucho más crítica. Basada en la idea de que el aprendizaje al igual que el trabajo debe realizarse como si fuera un “deber”. Este punto de vista sugiere que toda diversión y entretenimiento es algo que debe dejarse para los momentos de ocio,para el tiempo libre. Por ello,se critica de forma insistente la demanda de entretenimiento y diversión.    
 
-**EL RETO.** Se trata de que el usuario se sienta desafiado hacia la consecución de metas que,en realidad, no sabe si será capaz de alcanzar.
+    El problema de este punto de vista es que se olvida que el esfuerzo y la dedicación constante a una actividad no están reñidos con la diversión. Al contrario,cuando algo gusta ,divierte, motiva, interesa, apasiona,el usuario es capaz de dedicar mucho tiempo y esfuerzo. El reto es, por supuesto, encontrar las formas adecuadas de motivación.
 
-**LA CURIOSIDAD.** Se trata de crear curiosidad al usuario en diversos temas de manera que éste mantenga motivación necesaria para continuar usando la aplicación. 
+    Nuestra aplicación tendrá dos características generales de los juegos que hacen que sea enganchable:
 
-Además tendrá una característica adicional:
+    **EL RETO.** Se trata de que el usuario se sienta desafiado hacia la consecución de metas que,en realidad, no sabe si será capaz de alcanzar.
 
-**LA INMERSIÓN.** La aplicación podrá recibir sugerencias de preguntas de los usuarios, hará sentir al usuario que está implicado en el desarrollo de la aplicación.
+    **LA CURIOSIDAD.** Se trata de crear curiosidad al usuario en diversos temas de manera que éste mantenga motivación necesaria para continuar usando la aplicación. 
+
+    Además tendrá una característica adicional:
+
+    **LA INMERSIÓN.** La aplicación podrá recibir sugerencias de preguntas de los usuarios, hará sentir al usuario que está implicado en el desarrollo de la aplicación.
 
 ## Fase de análisis
 
